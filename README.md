@@ -3,7 +3,7 @@
 This repository contains small examples and simulations of basics in communication engineering. The different folders contain examples of the different channel coding types:
 
 
-##### Basic Channel coding:
+## Basic Channel coding:
 - Simulation of a digital Transmission system (SIM)
 - Digital signal representation (DBD)
 - Digital baseband transmission (DBB)
