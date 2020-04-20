@@ -1,5 +1,3 @@
-13 lines (9 sloc)  211 Bytes
-  
 %BPSK-Modulation
 %
 %v_u: loine vector with randomly generated bits
@@ -12,4 +10,4 @@ v_pos = v_neg + 1;
 
 v_x = v_pos + v_neg;
 
-en
+end
