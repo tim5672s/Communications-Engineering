@@ -5,6 +5,7 @@ function [] = mySinus()
     t = (0 : 0.01 : k*2*pi);
     y = 2*sin(t);
     
+    %Plot figure
     figure(1)
     plot(t,y);
     title('2*Sinus(2*k*pi)')
